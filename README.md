@@ -1,5 +1,5 @@
 ```shell
-cd project
+cd weather-data
 npm i
 npm start
 ```
